@@ -1,0 +1,18 @@
+Site 1: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+Site 2: https://threejs.org/docs/index.html#manual/en/introduction/Installation
+Site 3: https://threejs.org/docs/#examples/en/controls/OrbitControls
+
+==================================================================================
+>> npm init
+
+>> npm install --save three
+
+(NOT USED YET)
+>> npm install --save-dev webpack
+>> npm install --save-dev webpack-cli
+
+- create index.html and follow Site 1 and Site 3 (for setting arguments for OrbitControls to rotate manually).
+
+
+==================================================================================
+
